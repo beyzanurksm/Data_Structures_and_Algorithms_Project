@@ -68,7 +68,7 @@ These menu options allow the user to test and manage the main features of the ca
 This project was developed collaboratively.
 
 * [Beyzanur Kasım](https://github.com/byznrksm)
-* [BeyzaNurCom](https://github.com/BeyzaNurCom)
+* [Beyza Nur Karahasanoğlu](https://github.com/BeyzaNurCom)
 
 ---
 
